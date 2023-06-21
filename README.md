@@ -1,2 +1,2 @@
-# reece_portfolio
-Reece's Data Science Portfolio
+# Reeces Landing Page
+Welcome to my GitHub page.
